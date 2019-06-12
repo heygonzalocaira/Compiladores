@@ -1,0 +1,11 @@
+@@
+    int  i,max,sum;
+@@
+    sum := 0;
+    i := 1;
+    max := 5;
+    while (i <=  max)  {
+          sum := sum + i;
+          i  := i + 1; 
+     }
+     

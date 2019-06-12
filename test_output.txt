@@ -1,0 +1,8 @@
+
+Tabla de simbolos:
+-------------
+IDs           Tipo
+----------    ----
+i             integer
+max           integer
+sum           integer
